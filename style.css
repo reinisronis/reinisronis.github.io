@@ -33,6 +33,9 @@ body {
 }
 .aligncenter {
 	text-align: center;
+	display: block;
+    margin: auto;
+    width: 40%;
 }
 #header {
   position: fixed;
