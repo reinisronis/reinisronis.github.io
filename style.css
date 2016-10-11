@@ -28,6 +28,12 @@ body {
 .content h1 {
 	text-align: center;
 }
+.alignright {
+	text-align: right;
+}
+.aligncenter {
+	text-align: center;
+}
 #header {
   position: fixed;
   z-index: 2;
