@@ -25,6 +25,9 @@ body {
 .content p {
   margin-bottom: 10px;
 }
+.content h1 {
+	text-align: center;
+}
 #header {
   position: fixed;
   z-index: 2;
@@ -72,7 +75,4 @@ body {
 img {
 	width: 38px;
 	height: 36px;
-}
-h1 {
-	text-align:center;
 }
